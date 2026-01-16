@@ -1,3 +1,4 @@
 Ini awal cerita. Dan ini baris kedua.
 Baris ini belum di-add.
 tambah lagi.
+edit.
