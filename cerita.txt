@@ -12,3 +12,5 @@ test2
 
 tambahan lagi nihh
 coba git commit + flag -a
+
+ini lagi cobaa
