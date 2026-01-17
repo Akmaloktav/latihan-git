@@ -8,3 +8,7 @@ TAMBAHAN BARU LAGI
 test
 
 test2
+
+
+tambahan lagi nihh
+coba git commit + flag -a
