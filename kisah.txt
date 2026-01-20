@@ -1,4 +1,4 @@
-JUDUL SUDAH DIPERBAIKI
+JUDUL SPESIAL DISKON (SUDAH DIPERBAIKI)
 
 Ini awal cerita. Dan ini baris kedua.
 Baris ini belum di-add.
@@ -34,3 +34,5 @@ apakah bekerja lagi hahaha
 test-test-test
 zzzz
 awokawakok
+
+Sedang mengerjakan logika diskon 50%...
