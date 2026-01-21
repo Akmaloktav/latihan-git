@@ -35,6 +35,10 @@ test-test-test
 zzzz
 awokawakok
 
+tambah baru disini...
+tambah disini lagi...
+
+
 Sedang mengerjakan logika diskon 50%...
 
 cobaa ahhh
