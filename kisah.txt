@@ -1,5 +1,7 @@
 JUDUL SPESIAL DISKON (SUDAH DIPERBAIKI)
+A. Sub judul
 
+----------
 Ini awal cerita. Dan ini baris kedua.
 Baris ini belum di-add.
 tambah lagi.
@@ -40,6 +42,8 @@ tambah disini lagi...
 
 
 Sedang mengerjakan logika diskon 50%...
+tambah diskon setiap hari minggu....
 
 cobaa ahhh
 tambah lagi
+tambah yang disini....
